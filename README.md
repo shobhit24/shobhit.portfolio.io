@@ -2,9 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/shobhit24/shobhit.portfolio.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="shobhit24"><a class="LI-simple-link" href='https://in.linkedin.com/in/shobhit24?trk=profile-badge'>Shobhit Goswami</a></div>
-
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
